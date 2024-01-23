@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Server.dir/main.cpp.o CMakeFiles/Server.dir/Connection/TCP.cpp.o CMakeFiles/Server.dir/Connection/TCPClient.cpp.o CMakeFiles/Server.dir/DataBase/DB_Manager.cpp.o CMakeFiles/Server.dir/TypeRequests/TypeRequests.cpp.o CMakeFiles/Server.dir/utils/utils.cpp.o -o Server 

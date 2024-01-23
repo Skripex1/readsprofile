@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Client.dir/main.cpp.o CMakeFiles/Client.dir/Connection/TCPClient.cpp.o CMakeFiles/Client.dir/Requests/TypeRequests.cpp.o CMakeFiles/Client.dir/utils/utils.cpp.o -o Client 

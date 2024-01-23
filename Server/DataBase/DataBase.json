@@ -1,0 +1,151 @@
+{
+    "books": [
+        {
+            "ID": 1,
+            "ISBN": "0553260111",
+            "author": "Robert Ludlum",
+            "download_link": "https://example.com/thebourneidentity",
+            "genres": "Action, Thriller, Mystery",
+            "rating": 4.0,
+            "title": "The Bourne Identity",
+            "year": 1980
+        },
+        {
+            "ID": 2,
+            "ISBN": "9780679783268",
+            "author": "Jane Austen",
+            "download_link": "https://example.com/prideandprejudice",
+            "genres": "Romance, Drama, Historical",
+            "rating": 4.5,
+            "title": "Pride and Prejudice",
+            "year": 1813
+        },
+        {
+            "ID": 3,
+            "ISBN": "9780451524935",
+            "author": "George Orwell",
+            "download_link": "https://example.com/1984",
+            "genres": "Science Fiction, Dystopian, Political Fiction",
+            "rating": 4.2,
+            "title": "1984",
+            "year": 1949
+        },
+        {
+            "ID": 4,
+            "ISBN": "9780385504201",
+            "author": "Dan Brown",
+            "download_link": "https://example.com/thedavincicode",
+            "genres": "Mystery, Thriller, Adventure",
+            "rating": 3.9,
+            "title": "The Da Vinci Code",
+            "year": 2003
+        },
+        {
+            "ID": 5,
+            "ISBN": "9780446310789",
+            "author": "Harper Lee",
+            "download_link": "https://example.com/tokillamockingbird",
+            "genres": "Drama, Historical Fiction",
+            "rating": 4.3,
+            "title": "To Kill a Mockingbird",
+            "year": 1960
+        },
+        {
+            "ID": 6,
+            "ISBN": "9780743273565",
+            "author": "F. Scott Fitzgerald",
+            "download_link": "https://example.com/thegreatgatsby",
+            "genres": "Drama, Historical, Romance",
+            "rating": 4.1,
+            "title": "The Great Gatsby",
+            "year": 1925
+        },
+        {
+            "ID": 7,
+            "ISBN": "9780060850524",
+            "author": "Aldous Huxley",
+            "download_link": "https://example.com/bravenewworld",
+            "genres": "Science Fiction, Dystopian",
+            "rating": 4.0,
+            "title": "Brave New World",
+            "year": 1932
+        },
+        {
+            "ID": 8,
+            "ISBN": "9780316769488",
+            "author": "J.D. Salinger",
+            "download_link": "https://example.com/thecatcherintherye",
+            "genres": "Literary Fiction, Drama",
+            "rating": 3.8,
+            "title": "The Catcher in the Rye",
+            "year": 1951
+        }
+    ],
+    "searchHistory": [
+        {
+            "searches": [
+                {
+                    "bookID": 8,
+                    "rating": 5
+                },
+                {
+                    "bookID": 1,
+                    "rating": 4
+                }
+            ],
+            "username": "iosif"
+        },
+        {
+            "searches": [
+                {
+                    "bookID": 5,
+                    "rating": 3.6
+                },
+                {
+                    "bookID": 4,
+                    "rating": 3.7
+                }
+            ],
+            "username": "marius"
+        },
+        {
+            "searches": [
+                {
+                    "bookID": 1,
+                    "rating": 0.0
+                }
+            ],
+            "username": ""
+        }
+    ],
+    "users": [
+        {
+            "password": "12345",
+            "username": "marius"
+        },
+        {
+            "password": "54321",
+            "username": "andrei"
+        },
+        {
+            "password": "34512",
+            "username": "rares"
+        },
+        {
+            "password": "1234",
+            "username": "oana"
+        },
+        {
+            "password": "ionescu",
+            "username": "antonio"
+        },
+        {
+            "password": "5555",
+            "username": "andreea"
+        },
+        {
+            "password": "b",
+            "username": "a"
+        }
+    ]
+}
